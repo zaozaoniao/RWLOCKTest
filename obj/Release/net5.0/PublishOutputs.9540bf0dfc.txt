@@ -1,0 +1,7 @@
+D:\Workplace\TCBase.Data\webcore2\obj\Release\net5.0\PubTmp\Out\webcore2.exe
+D:\Workplace\TCBase.Data\webcore2\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+D:\Workplace\TCBase.Data\webcore2\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\Workplace\TCBase.Data\webcore2\obj\Release\net5.0\PubTmp\Out\webcore2.dll
+D:\Workplace\TCBase.Data\webcore2\obj\Release\net5.0\PubTmp\Out\webcore2.deps.json
+D:\Workplace\TCBase.Data\webcore2\obj\Release\net5.0\PubTmp\Out\webcore2.runtimeconfig.json
+D:\Workplace\TCBase.Data\webcore2\obj\Release\net5.0\PubTmp\Out\webcore2.pdb

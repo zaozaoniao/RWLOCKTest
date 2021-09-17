@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "D:\\MyConfiguration\\TCLDUSER\\.dotnet\\store\\|arch|\\|tfm|",
+      "D:\\MyConfiguration\\TCLDUSER\\.nuget\\packages"
+    ]
+  }
+}
